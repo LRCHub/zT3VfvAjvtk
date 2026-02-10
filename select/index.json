@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "SOBER",
+  "base_artist": "BIGBANG",
+  "createdAt": "2026-02-10T20:25:56.189630Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SIGNED, SOBER YOU",
+      "artist": "Hardy",
+      "has_synced": true,
+      "path": "select/01_SIGNED,_SOBER_YOU_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SIGNED, SOBER YOU",
+      "artist": "Hardy",
+      "has_synced": false,
+      "path": "select/02_SIGNED,_SOBER_YOU_Hardy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sober You",
+      "artist": "Melanie Meriney",
+      "has_synced": false,
+      "path": "select/03_Sober_You_Melanie_Meriney.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sober",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/04_Sober_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sober II (Melodrama)",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/05_Sober_II_(Melodrama)_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sober",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/06_Sober_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sober",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/07_Sober_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sober - Single Version",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/08_Sober_-_Single_Version_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sober (Single Version)",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/09_Sober_(Single_Version)_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drink You Sober",
+      "artist": "Bitter:Sweet",
+      "has_synced": true,
+      "path": "select/10_Drink_You_Sober_Bitter_Sweet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sober",
+      "artist": "Broods",
+      "has_synced": true,
+      "path": "select/11_Sober_Broods.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Try it Sober",
+      "artist": "Phoebe Ryan",
+      "has_synced": true,
+      "path": "select/12_Try_it_Sober_Phoebe_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hate Bein' Sober",
+      "artist": "Chief Keef feat. 50 Cent & Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/13_Hate_Bein'_Sober_Chief_Keef_feat._50_Cent_&_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hate Bein' Sober (Feat. 50 Cent & Wiz Khalifa)",
+      "artist": "Chief Keef",
+      "has_synced": true,
+      "path": "select/14_Hate_Bein'_Sober_(Feat._50_Cent_&_Wiz_Khalifa)_Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Call Me When You're Sober",
+      "artist": "DJ Nate",
+      "has_synced": false,
+      "path": "select/15_Call_Me_When_You're_Sober_DJ_Nate.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sober",
+      "artist": "DJ Snake feat. JRY",
+      "has_synced": true,
+      "path": "select/16_Sober_DJ_Snake_feat._JRY.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sober",
+      "artist": "Drugstore",
+      "has_synced": true,
+      "path": "select/17_Sober_Drugstore.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sober Thoughts",
+      "artist": "GoldLink",
+      "has_synced": true,
+      "path": "select/18_Sober_Thoughts_GoldLink.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Goodbye Sober Day",
+      "artist": "Mr. Bungle",
+      "has_synced": false,
+      "path": "select/19_Goodbye_Sober_Day_Mr._Bungle.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Goodbye Sober Day",
+      "artist": "Mr. Bungle Mike Patton",
+      "has_synced": true,
+      "path": "select/20_Goodbye_Sober_Day_Mr._Bungle_Mike_Patton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SOBER -KR Ver.-",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/pl_01_SOBER_-KR_Ver.-_BIGBANG.txt"
+    }
+  ]
+}
